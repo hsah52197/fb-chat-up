@@ -636,7 +636,7 @@ class ChatBot(Client):
                   thread_type=thread_type)
 
 
-cookies = { "sb": "E9gpYgRsr72QYUttzIB-uSze", "m_pixel_ratio": "1", "locale": "en_US", "x-referer": "eyJyIjoiLz9yZWZzcmM9ZGVwcmVjYXRlZCZzb2Z0PWJvb2ttYXJrcyIsImgiOiIvP3JlZnNyYz1kZXByZWNhdGVkJnNvZnQ9Ym9va21hcmtzIiwicyI6Im0ifQ%3D%3D", "wd": "1920x961", "datr": "06UsYm8XV15muZBfyOTb6z4R", "c_user": "100017044454125", "xs": "35%3ACbW2M-QWqVCoVg%3A2%3A1647096075%3A-1%3A3662", "fr": "0gTYpIMQsSEMsYFgH.AWXnPXr42sZAJ68hEAQVhmAso8E.BiLKm-.UT.AAA.0.0.BiLLEb.AWWzPidNPI8", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1647096094710%2C%22v%22%3A1%7D" }
+cookies = {"sb": "nQzuYkmkifI9QXb07TqvdAoj", "wd": "1920x961", "datr": "nQzuYosntInpCVYMxXLKZyiu", "c_user": "100080221119658", "xs": "3%3AOfLtMgEZZcan0g%3A2%3A1660251807%3A-1%3A-1%3A%3AAcW46ddPcrWlvDI4FoysxfZHR8oCDZL27xt13oM3sg", "fr": "0qdAVd4c1VT988b7E.AWVmeYiw10ImRJv1BaZozmzEoV4.Bi9epF.mF.AAA.0.0.Bi9fRQ.AWXkChGIjLs", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1660286060575%2C%22lm3%22%3A%22u.100022353091961%22%2C%22v%22%3A1%7D"}
 
 # enter your email and password facebook
 client=ChatBot("",
